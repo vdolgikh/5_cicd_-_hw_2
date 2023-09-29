@@ -1,0 +1,6 @@
+projectKey=netology_lesson_2
+serverUrl=http://158.160.37.135:9000
+serverVersion=9.1.0.47736
+dashboardUrl=http://158.160.37.135:9000/dashboard?id=netology_lesson_2
+ceTaskId=AYrjJPBEN52Cp7shP8Qk
+ceTaskUrl=http://158.160.37.135:9000/api/ce/task?id=AYrjJPBEN52Cp7shP8Qk
